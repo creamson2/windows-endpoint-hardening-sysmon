@@ -26,6 +26,7 @@ Sysmon • Windows Hardening • Logging & Monitoring • Detection Engineering 
 
 ## Project Image
 ![Sysmon Endpoint Logging Diagram](sysmon-diagram.png)
+![Sysmon Project Image](sysmon-image-card.png)
 
 ---
 
